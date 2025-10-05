@@ -1,0 +1,6 @@
+[submodule "BotBuilder-Samples"]
+	path = BotBuilder-Samples
+	url = https://github.com/microsoft/BotBuilder-Samples.git
+[submodule "week_6/BotBuilder-Samples"]
+	path = week_6/BotBuilder-Samples
+	url = https://github.com/microsoft/BotBuilder-Samples.git
